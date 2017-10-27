@@ -1,0 +1,22 @@
+{
+  "name": "bi-cli",
+  "version": "1.0.0",
+  "description": "bi编辑器",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/631221182/bi-cli.git"
+  },
+  "bin": {
+    "bi-cli": "./index.js"
+  },
+  "keywords": [
+    "bi"
+  ],
+  "author": "lix",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/631221182/bi-cli/issues"
+  },
+  "homepage": "https://github.com/631221182/bi-cli#readme"
+}
